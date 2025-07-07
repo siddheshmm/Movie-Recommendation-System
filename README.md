@@ -13,9 +13,11 @@ A simple user-based collaborative filtering system using the MovieLens 100K data
 ## 🚀 Setup
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommender.git
-   cd movie-recommender```
+   ```
+   bash
+   git clone https://github.com/siddheshmm/movie-recommender.git
+   cd movie-recommender
+   ```
 
 2. Install Python dependencies:
     ```
@@ -29,7 +31,9 @@ A simple user-based collaborative filtering system using the MovieLens 100K data
     Create the required tables using scripts/load_data.py
 
 4. Run the CLI:
-    ```bash
+    ```
+    bash
     Copy
     Edit
-    python scripts/cli_recommender.py```
+    python scripts/cli_recommender.py
+    ```
